@@ -24,9 +24,9 @@ end
 
 ## 其他 HerCode 实现
 
-[HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
-[MuWinds/HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler)
-[liquancss/hercode](https://github.com/liquancss/hercode)
+ - [HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
+ - [MuWinds/HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler)
+ - [liquancss/hercode](https://github.com/liquancss/hercode)
 
 ## 许可
 
