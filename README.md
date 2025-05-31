@@ -22,9 +22,11 @@ start:
 end
 ```
 
-## 同类项目
+## 其他 HerCode 实现
 
-HerCode 编译器: [HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
+[HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
+[MuWinds/HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler)
+[liquancss/hercode](https://github.com/liquancss/hercode)
 
 ## 许可
 
