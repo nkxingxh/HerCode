@@ -22,7 +22,7 @@ start:
 end
 ```
 
-## 其他 HerCode 实现
+## 其她 HerCode 实现
 
  - ![C](https://img.shields.io/badge/language-CPP-f34b7d) [HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
  - ![C](https://img.shields.io/badge/language-C-red) [MuWinds/HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler)
