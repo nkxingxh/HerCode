@@ -27,6 +27,7 @@ end
  - ![C](https://img.shields.io/badge/language-CPP-f34b7d) [HerLanguage/HerLang](https://github.com/HerLanguage/HerLang)
  - ![C](https://img.shields.io/badge/language-C-red) [MuWinds/HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler)
  - ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) [liquancss/hercode](https://github.com/liquancss/hercode)
+ - ![Python](https://img.shields.io/badge/language-Python-3572A5) [MochiaoChen/Hercode](https://github.com/MochiaoChen/Hercode)
 
 ## 许可
 
